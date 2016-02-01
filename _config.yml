@@ -1,7 +1,7 @@
 name: cabeson
 favicon: null
-layout_spectrum: 0.25497995782643557
-typography_spectrum: 0.26760671311058104
+layout_spectrum: 0.24791
+typography_spectrum: 0.50668
 title: Kitty Cat Page
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8050001836381853
-  lightness: 0.7057728795334697
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.6641056523658335
   rhythmicContrast: 0.16850079782307148
 purpose: []
